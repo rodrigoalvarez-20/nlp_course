@@ -1,0 +1,4 @@
+venv/
+vocab_embeddings.json
+simil_table.csv
+vocab.txt
